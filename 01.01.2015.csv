@@ -1,0 +1,74 @@
+,,Rural,Urban,"No OfAccounts","No Of RupayDebit Card","Balance InAccounts(InLacs)","No OfAccountsWith ZeroBalance"
+Public Sector Bank,Public Sector Bank,45417203,38242656,83659859,73758188,659609.49,60775206
+Rural Regional Bank,Rural Regional Bank,15819392,2810919,18630311,9426924,127861.82,14214232
+Private Banks,Private Banks,1521784,1381141,2902925,2225732,50335.05,2031074
+Grand Total,Grand Total,62758379,42434716,105193095,85410844,837806.36,77020512
+,,,,,,,
+Public Sector Banks,Name of Bank,Rural,Urban,"No OfAccounts","No Of RupayDebit Card","Balance InAccounts(InLacs)","No OfAccountsWith ZeroBalance"
+Public Sector Banks,Allahabad Bank,1467901,661401,2129302,2024815,4880.55,1672296
+Public Sector Banks,Andhra Bank,976143,624419,1600562,1566635,4878.15,1148886
+Public Sector Banks,Bank of Baroda,2343908,3314405,5658313,5465544,50737,3075774
+Public Sector Banks,Bank Of India,1957088,2850092,4807180,4807864,21318,3357400
+Public Sector Banks,Bank of Maharastra,1201073,557673,1758746,1457527,22915.13,1107860
+Public Sector Banks,Bhartiya Mahila Bank,0,54006,54006,52630,350.68,25214
+Public Sector Banks,Canara Bank,3524314,1695604,5219918,5112897,73004.24,2480657
+Public Sector Banks,Central bank of India,3465986,1066818,4532804,3795082,15239.82,3416240
+Public Sector Banks,Corporation Bank,816380,804799,1621179,1514448,23075.44,631429
+Public Sector Banks,Dena Bank,1253152,677543,1930695,1839675,10697,1412125
+Public Sector Banks,IDBI,393408,372360,765768,667238,1748.12,638910
+Public Sector Banks,Indian bank,1407725,821833,2229558,2173215,9102.94,1561487
+Public Sector Banks,Indian Overseas Bank,806290,1599560,2405850,2289281,1111.66,2025566
+Public Sector Banks,Oriental Bank of Commerce,1081984,751616,1833600,1605966,81600.19,827596
+Public Sector Banks,Punjab & Sind Bank,704290,391469,1095759,974783,35613.06,613460
+Public Sector Banks,Punjab National Bank,4794782,1140432,5935214,4029715,77650.19,4778240
+Public Sector Banks,State Bank of Bikaner and Jaipur,850682,1053793,1904475,1394578,36740.36,1110145
+Public Sector Banks,State Bank of Hyderabad,704819,1356611,2061430,1937932,7707.72,1626534
+Public Sector Banks,State Bank of India,8440376,12293587,20733963,16833163,13983,19549929
+Public Sector Banks,State Bank of Mysore,493475,168820,662295,622179,303.94,627033
+Public Sector Banks,State Bank of Patiala,348801,660769,1009570,968595,23197,702328
+Public Sector Banks,State Bankof Travancore,36899,277947,314846,261376,14766,47226
+Public Sector Banks,Syndicate Bank,1903684,997360,2901044,2640446,20332.34,2088823
+Public Sector Banks,Uco Bank,1534648,1616524,3151172,3020512,30241,1974586
+Public Sector Banks,Union Bank Of India,2768462,880050,3648512,3164018,17441.19,2636254
+Public Sector Banks,United Bank Of India,1559739,1132681,2692420,2536396,58150.95,960113
+Public Sector Banks,Vijaya Bank,581194,420484,1001678,1001678,2823.82,679095
+Public Sector Banks,Sub Total,45417203,38242656,83659859,73758188,659609.49,60775206
+,,,,,,,
+Regional Rural Bank,Name of Bank,Rural,Urban,"No OfAccounts","No Of RupayDebit Card","Balance InAccounts(InLacs)","No OfAccountsWith ZeroBalance"
+Regional Rural Bank,Allahabad Bank,497855,106606,604461,589872,940.21,471544
+Regional Rural Bank,Andhra Bank,110450,8648,119098,80885,305.94,86286
+Regional Rural Bank,Bank of Baroda,1301365,399931,1701296,1598641,10462,1390141
+Regional Rural Bank,Bank Of India,1143652,301799,1445451,1110605,1494,1338442
+Regional Rural Bank,Bank of Maharastra,321483,54357,375840,211265,135,330776
+Regional Rural Bank,Canara Bank,366950,196631,563581,506998,2780.9,238605
+Regional Rural Bank,Central bank of India,1705121,335805,2040926,1019235,23037.84,1733797
+Regional Rural Bank,Dena Bank,170741,9242,179983,132340,1463,144897
+Regional Rural Bank,Indian bank,263163,38215,301378,114706,1083.91,232523
+Regional Rural Bank,Indian Overseas Bank,377764,9120,386884,998,3008.28,194743
+Regional Rural Bank,Punjab & Sind Bank,9285,1945,11230,11199,44.21,2839
+Regional Rural Bank,Punjab National Bank,1441183,282616,1723799,561224,25113.28,1208283
+Regional Rural Bank,State Bank of Bikaner and Jaipur,739514,21917,761431,574760,5128.92,685164
+Regional Rural Bank,State Bank of Hyderabad,445186,75489,520675,67631,790.32,431213
+Regional Rural Bank,State Bank of India,2784252,478147,3262399,265308,17866,2350389
+Regional Rural Bank,State Bank of Mysore,250139,74836,324975,208800,1689.37,234180
+Regional Rural Bank,State Bank of Patiala,33751,615,34366,28117,371,17221
+Regional Rural Bank,Syndicate Bank,874307,258788,1133095,882626,10957.44,815382
+Regional Rural Bank,Uco Bank,412086,8608,420694,269599,3910,265242
+Regional Rural Bank,Union Bank Of India,429050,109356,538406,26906,3103.5,496141
+Regional Rural Bank,United Bank Of India,2142095,38248,2180343,1165209,14176.7,1546424
+Major Private Banks,Name of Bank,Rural,Urban,"No OfAccounts","No Of RupayDebit Card","Balance InAccounts(InLacs)","No OfAccountsWith ZeroBalance"
+Major Private Banks,Axis Bank,"72,143","1,58,800",230943,225191,1615.78,142745
+Major Private Banks,City Union Bank Ltd,"10,928","48,352",59280,0,356.63,36189
+Major Private Banks,Fedral Bank,"1,42,701","41,004",183705,179999,9904.86,97538
+Major Private Banks,HDFC Bank,"1,46,720","6,19,943",766663,742839,29185.39,469655
+Major Private Banks,ICICI,"5,22,430","1,25,833",648263,644602,965.15,568825
+Major Private Banks,Indusind Bank,"12,343","95,695",108038,94391,199.76,94345
+Major Private Banks,Jammu and Kashmir Bank,"4,95,595","61,003",556598,94624,7107.58,379423
+Major Private Banks,Karur Vaisya Bank,"5,670","78,112",83782,75695,189.19,64823
+Major Private Banks,Kotak Mahindra Bank,"27,087","23,344",50431,49539,209.62,41199
+Major Private Banks,Lakshmi Vilas Bank,"9,242","31,926",41168,10573,84,28125
+Major Private Banks,Ratnakar Bank,"60,061","29,450",89511,72986,52,59948
+Major Private Banks,South Indian Bank,"12,815","65,307",78122,35293,449,42586
+Major Private Banks,Yes Bank,"4,049","2,372",6421,0,16.1,5673
+Major Private Banks,(C) Major Private Banks,1521784,1381141,2902925,2225732,50335.05,2031074
+,Grand Total,62758379,42434716,105193095,85410844,837806.36,77020512
